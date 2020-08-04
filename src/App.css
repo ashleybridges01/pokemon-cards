@@ -113,6 +113,10 @@ body {
   border-radius: 5px;
 }
 
+.container .pokemon__meta span #cp {
+  background-color: red;
+}
+
 @media (max-width: 800px) {
   .container .pokemon__attacks, .container .pokemon__meta {
     flex-wrap: wrap;
