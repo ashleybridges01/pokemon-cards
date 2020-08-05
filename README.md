@@ -1,1 +1,4 @@
-Pokemon cards App pulling info from a graphql server. Made using React.
+# Pokemon Cards and GraphQL Practise 
+Pokemon cards app pulling from a GraphQL server. Made using React.
+## Live site:
+https://musing-jones-7caf10.netlify.app/
